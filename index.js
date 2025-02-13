@@ -4,7 +4,7 @@ let img = document.getElementById("img");
 let downloadBtn = document.getElementById("downloadBtn");
 let qrimg = document.getElementById("img")
 
-function myFun() {
+function myFun() { 
   let value = input.value.trim();
   let colorValue = colorInput.value.trim();
   
